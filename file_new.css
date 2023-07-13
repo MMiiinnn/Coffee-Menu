@@ -1,0 +1,164 @@
+body
+{
+    background-color: burlywood;
+    font-size: large;
+}
+
+#all
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1, h2
+{
+    color: brown;
+}
+
+p
+{
+    font-size: 12px;
+    margin: 0;
+}
+
+h1, h2, .ten_hang, h3
+{
+    margin: 0;
+}
+
+h2
+{
+    font-size: 23px;
+}
+
+h1
+{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.gia
+{
+    font-size: 20px;
+    color: rgba(255, 0, 0, 0.747);
+    font-weight: bold;
+    margin: 0;
+}
+
+.phan_cach
+{
+    border-left: 1px solid black;
+    height: 47px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.thong_tin
+{
+    display: flex;
+}
+
+.size
+{
+    font-weight: bold;
+}
+
+.pic_cap 
+{
+    position: relative;
+    text-align: center;
+}
+
+#cf_phin, #freeze, #tra
+{
+    display: flex;
+}
+
+figure
+{
+    text-align: right;
+    margin-left: 10px;
+}
+
+.eng
+{
+    margin-bottom: 4px;
+}
+
+.ten_hang, .gia_espresso
+{
+    display: inline-block;
+}
+
+.ten_hang, .gia_khac
+{
+    display: inline-block;
+}
+
+.sp_va_gia
+{
+    width: 360px;
+}
+
+
+.gia_espresso
+{
+    margin-left: 45px;
+    text-align: right;
+    font-size: 20px;
+    color: rgba(255, 0, 0, 0.747);
+    font-weight: bold;
+}
+
+.gia_khac
+{
+    margin-left: 0;
+    text-align: right;
+    font-size: 20px;
+    color: rgba(255, 0, 0, 0.747);
+    font-weight: bold;
+}
+
+.ten_hang
+{
+    font-weight: bold;
+    font-size: 22px;
+    text-align: left;
+    width: 67%;
+}
+
+#khung
+{
+    width: 205px;
+    margin-top: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: smaller;
+}
+
+.under_h2
+{
+    font-size: 13px;    
+    margin-top: -2px;
+    margin-bottom: 2px;
+}
+
+#khac
+{
+    width: 500px;
+    margin-left: 7px;
+}
+
+img
+{
+    height: auto;
+    width: 190px;
+    padding-right: 0;
+}
+
+footer
+{
+    text-align: right;
+}
+
